@@ -18,8 +18,23 @@
 
 ##
 
+## That's who I am:
+
+As a software engineer, I have proficiency in several programming skills and languages, including JavaScript, Node.js, C#, Java, TypeScript, Python, ASP.NET, HTML5, CSS3, Git/GitHub, Docker and Kubernetes. My expertise lies in my ability to quickly learn new skills and technologies.
+
+I am currently pursuing a Bachelor of Science in Computer Science to expand my knowledge in the field of technology. Additionally, I have advanced skills in English, with a level C1, as proven by an official test carried out on the Cambridge website in England.
+
+I am always seeking new challenges to develop myself professionally and contribute to the team. If you are interested in discussing potential opportunities, please feel free to contact me.
+
+##
+
 <div>
   <a href="https://www.linkedin.com/in/kau%C3%AA-eduardo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaue.ke19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/iamkaued" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<div style="display: inline_block">
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iamkaued&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kaue Eduardo github stats" /> 
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaued&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
