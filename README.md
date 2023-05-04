@@ -37,6 +37,6 @@ I am always seeking new challenges to develop myself professionally and contribu
 ##
 
 <div style="display: inline_block">
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iamkaued&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kaue Eduardo github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaued&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="45%" height="220px" src="https://github-readme-stats.vercel.app/api?username=iamkaued&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kaue Eduardo github stats" /> 
+  <img width="45%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaued&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
