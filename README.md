@@ -1,6 +1,6 @@
 # Hello, I am Kauê Eduardo
 
-- 🔭 I’m currently working as a Software Engineer and digital sales at IBM.
+- 🔭 I’m currently working as a Software Engineer and Digital Sales at IBM.
 - 🌱 I’m currently learning Node.js and Docker.
 - 😄 Pronouns: He/Him.
 
