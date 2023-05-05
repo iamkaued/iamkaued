@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working as a Software Engineer and Digital Sales at IBM.
 - 🌱 I’m currently learning Node.js and Docker.
+- 🧑🏼‍💻 I’m currently taking a Bachelor of Science in Computer Science.
 - 😄 Pronouns: He/Him.
 
 <div style="display: inline_block"><br>
