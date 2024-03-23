@@ -1,7 +1,7 @@
 # Hello, I am Kauê Eduardo
 
-- 🔭 I’m currently working on the Expert Labs team at IBM.
-- 🌱 I’m currently exploring Automation and Cloud Computing.
+- 🔭 I’m currently working on the Digital Sales team at IBM.
+- 🌱 I’m currently exploring Cloud Computing.
 - 🧑🏼‍💻 I’m currently taking a Bachelor of Science in Computer Science.
 - 😄 Pronouns: He/Him.
 
